@@ -23,11 +23,11 @@ This project aims to develop a robotic device that floats on water and measures 
 - Floating body/structure
 - Sensor-enabled robotic arm
 - Water quality sensors (pH, DO, turbidity, temperature)
-- Communication module (Wi-Fi, nRF24L01, or LoRa)
+- Communication module (Wi-Fi, nRF24L01, or LoRa) nRF is used
 - Power supply (battery or solar-powered)
 
 ## Software
-- **Platform**: Arduino IDE / Raspberry Pi OS
+- **Platform**: Arduino IDE
 - **Communication Protocols**: MQTT, HTTP/REST API for data transmission
 - **Data Logging**: CSV format or cloud storage integration
 - **User Interface**: Web dashboard or mobile app for real-time monitoring and historical data visualization
